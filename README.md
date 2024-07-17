@@ -17,6 +17,7 @@ This project demonstrates how to use Docker and Nginx to scale a simple Node.js 
 
 ## Project Structure
 
+```plaintext
 nodejs-docker-nginx-scaling/
 ├── Dockerfile
 ├── app.js
